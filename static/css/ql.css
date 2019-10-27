@@ -1,0 +1,134 @@
+#index_page .home-post{background: none;}
+  #recruits-list .card,#pros-list .card{border:none;}
+  .infinite-scroll-preloader {
+    margin-top: -4rem;
+  }
+
+  .list-block.white {
+    background: white;
+  }
+
+  #topc-list {
+    position: relative;
+    z-index: 100;
+    padding: 0 0.3rem;
+    margin: -7% 5% 0 5%;
+    border-radius: 0.3rem;
+    background: rgba(255, 255, 255, 1);
+    box-shadow: 0.3rem 0.3rem 0.6rem rgba(49, 50, 50, 0.08);
+  }
+
+  #topc-list .icon {
+    height: 2.4rem;
+  }
+
+  #topc-list img {
+    width: 2.4rem;
+    vertical-align: middle;
+  }
+
+  #topc-list a {
+    width: 2.8rem;
+    height: 3.4rem;
+    color: #666;
+    font-size: 0.7rem;
+  }
+
+  #topc-list .tip p {
+    background: url(../images/pic_1.png) no-repeat;
+    background-size: 100% auto;
+    width: 2.8rem;
+    height: 2.0rem;
+    margin: 0 auto;
+    margin-left: 2em;
+  }
+
+  #fw-list {
+    padding: 0 1.5rem;
+    text-align: center;
+    margin-top: 0.5rem;
+    padding-bottom: 0.5rem;
+  }
+
+  #fw-list .icon {
+    height: 1.2rem;
+  }
+
+  #fw-list img {
+    width: 1.2rem;
+    vertical-align: middle;
+  }
+
+  #fw-list .tip a {
+    line-height: 150%;
+    display: inline-block;
+    width: 2.8rem;
+    /*height: 3rem;*/
+    text-align: center;
+    font-size: 0.6rem;
+    color: #666;
+  }
+
+  #fw-list .tip p {
+    background: url(../images/pic.png) no-repeat;
+    background-size: 2.8rem auto;
+    width: 1.4rem;
+    height: 1.4rem;
+    margin: 0 0.7rem;
+    background-position-y: -11.38rem;
+    margin-bottom: 0.2rem;
+  }
+  #fw-list .row.col-center > div{
+padding:0.4rem 0 0 0;
+  }
+
+  /*.row .col-25{margin-left:2%;width:23%;}*/
+  .item-content {
+    margin: 0.2rem !important;
+    line-height: 1.4rem !important;
+  }
+.card{
+  margin: 0 !important;
+}
+  #pros-list .card,#recruits-list .card {
+    margin: -0.3rem 0 0rem 0 !important;
+    box-shadow: none;
+    border-bottom: 3px solid #e7e7e7;
+  }
+  #pros-list .card:last-child,#recruits-list .card:last-child{
+    border-bottom:none;
+  }
+  #act-list{
+  background: white;
+}
+  #act-list a {
+    display: inline-block;
+    width: 100%;
+    height: 3.2rem;
+    line-height: 3.2rem;
+    padding-right: 0.8rem;
+    text-align: right;
+    background: url(../images/gz_wxhome_bg-85ac129005d1e645e7e8e33aeab17aead72e415ba647c720322ed7325ec31838.png) no-repeat;
+    background-size: 100% 100%;
+    color: rgba(51, 51, 51, 1);
+    font-size: 0.8rem;
+    font-weight: bold;
+  }
+
+  #act-list a.sk {
+    background: url(../images/sk_wxhome_bg-b13a1bf195cc46c7368d8dad7bc79c4c8c0136359d5bb0db621687122491bc12.png) no-repeat;
+    background-size: 100% 100%;
+    margin-left: 0.15rem;
+    padding-right: 0.7rem;
+  }
+
+  #act-list .row {
+    margin: 0;
+  }
+
+  #act-list .row .col-50 {
+    margin: 0;
+    width: 50%;
+    padding: 0;
+  }
+  
