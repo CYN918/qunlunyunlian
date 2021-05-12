@@ -21,7 +21,7 @@
     "iview": "^3.1.5",
     "js-md5": "^0.7.3",
     "mint-ui": "^2.2.13",
-    "swiper": "^3.4.2",
+    "swiper": "^6.5.1",
     "vue": "^2.5.2",
     "vue-axios": "^2.1.4",
     "vue-infinite-scroll": "^2.0.2",
